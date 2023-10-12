@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Usuarios\Dao\bin\Debug\net6.0\Dao.deps.json
+C:\Users\Usuario\source\repos\Usuarios\Dao\bin\Debug\net6.0\Dao.dll
+C:\Users\Usuario\source\repos\Usuarios\Dao\bin\Debug\net6.0\Dao.pdb
+C:\Users\Usuario\source\repos\Usuarios\Dao\obj\Debug\net6.0\Dao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Usuarios\Dao\obj\Debug\net6.0\Dao.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Usuarios\Dao\obj\Debug\net6.0\Dao.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Usuarios\Dao\obj\Debug\net6.0\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Usuarios\Dao\obj\Debug\net6.0\Dao.dll
+C:\Users\Usuario\source\repos\Usuarios\Dao\obj\Debug\net6.0\refint\Dao.dll
+C:\Users\Usuario\source\repos\Usuarios\Dao\obj\Debug\net6.0\Dao.pdb
+C:\Users\Usuario\source\repos\Usuarios\Dao\obj\Debug\net6.0\ref\Dao.dll
